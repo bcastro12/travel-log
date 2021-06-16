@@ -1,0 +1,14 @@
+.mapboxgl-popup-content input {
+	border: 1px solid black;
+	outline: none;
+	height: 20px;
+	background-color: white;
+}
+
+.loading {
+	display: flex;
+	justify-content: center;
+}
+.loading img {
+	height: 30px;
+}
